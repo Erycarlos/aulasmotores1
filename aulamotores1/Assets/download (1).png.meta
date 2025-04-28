@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 6bc36d533f3a1d944b2ee97777202e9a
+guid: 8d9b3e7e57323304892d7eaec93189f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7345084297354576522
-    second: i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0
+      213: -2227294742669426013
+    second: download (1)_0
+  - first:
+      213: -8598462840186298345
+    second: download (1)_1
+  - first:
+      213: -8238929650393760733
+    second: download (1)_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0
+      name: download (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 320
-        height: 320
+        x: 59
+        y: 299
+        width: 80
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67d71ea5fb4011a90800000000000000
-      internalID: -7345084297354576522
+      spriteID: 3a208157b3f0711e0800000000000000
+      internalID: -2227294742669426013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: download (1)_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 299
+        width: 128
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ac4c7a9f1ca880800000000000000
+      internalID: -8598462840186298345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: download (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb8da722179ad80800000000000000
+      internalID: -8238929650393760733
       vertices: []
       indices: 
       edges: []
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0: -7345084297354576522
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6bc36d533f3a1d944b2ee97777202e9a
+guid: d84430eeabdd1c84c863d1adaeb53127
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7345084297354576522
-    second: i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0
+      213: -139582383017153287
+    second: dhaxeit-cd887008-1141-44a9-ab3f-b8dea03e4e3d_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0
+      name: dhaxeit-cd887008-1141-44a9-ab3f-b8dea03e4e3d_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 320
-        height: 320
+        width: 1255
+        height: 830
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67d71ea5fb4011a90800000000000000
-      internalID: -7345084297354576522
+      spriteID: 9fc2c5bef8a101ef0800000000000000
+      internalID: -139582383017153287
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      i-just-started-doing-pixel-art-and-with-image-reference-i-v0-jk71pb5oo81a1_0: -7345084297354576522
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
