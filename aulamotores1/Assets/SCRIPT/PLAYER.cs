@@ -2,8 +2,7 @@ using UnityEngine;
 
 public class PLAYER : MonoBehaviour
 {
-    private int numero;
-    public float velocidade; = 40;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         
