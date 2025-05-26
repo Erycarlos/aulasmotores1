@@ -1,7 +1,7 @@
 using JetBrains.Annotations;
 using UnityEngine;
 
-public class player : MonoBehaviour
+public class PLAYER : MonoBehaviour
 {
     private int numero;
 
@@ -19,15 +19,17 @@ public class player : MonoBehaviour
         // Debug.Log(numero);
         // numero = + 1;
         
-        if (Input.GetKey(KeyCode.A))
-        {gameObject.transform.position += new Vector3(-velocidade * Time.deltaTime, 0, 0);
+        if (Input.GetKey(KeyCode.J))
+        {
+            gameObject.transform.position += new Vector3(-velocidade * Time.deltaTime, 0, 0);
         }
         
-        if (Input.GetKey(KeyCode.D))
-        {gameObject.transform.position += new Vector3(velocidade * Time.deltaTime, 0, 0);
+        if (Input.GetKey(KeyCode.L))
+        {
+            gameObject.transform.position += new Vector3(velocidade * Time.deltaTime, 0, 0);
         }
-
-        if (Input.GetKey(KeyCode.W))
+        
+        if (Input.GetKey(KeyCode.I))
         { gameObject.transform.position += new Vector3(0, velocidade * Time.deltaTime, 0);
         }
     }
